@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/go_convey:6a5451e",
+  "image_name": "cyberdojofoundation/go_convey:75842e2",
   "display_name": "Go, convey",
   "visible_filenames": [
     "hiker_test.go",
