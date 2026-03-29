@@ -1,9 +1,11 @@
 {
-  "display_name": "Go 1.26.1, convey",
-  "image_name": "ghcr.io/cyber-dojo-languages/go_convey:bb10446",
+  "display_name": "Go 1.26.1, convey 1.8.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_convey:3ceabba",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
+    "go.mod",
+    "go.sum",
     "cyber-dojo.sh"
   ],
   "rag_lambda": "red_amber_green.rb",
