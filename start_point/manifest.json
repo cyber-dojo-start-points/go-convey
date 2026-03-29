@@ -1,11 +1,12 @@
 {
-  "image_name": "cyberdojofoundation/go_convey:f7e690a",
-  "display_name": "Go, convey",
+  "display_name": "Go 1.26.1, convey",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_convey:bb10446",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".go"
   ],
