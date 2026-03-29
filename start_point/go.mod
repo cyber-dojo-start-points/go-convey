@@ -1,4 +1,4 @@
-module cdl-go-convey
+module cyber-dojo-go-convey
 
 go 1.26.1
 
