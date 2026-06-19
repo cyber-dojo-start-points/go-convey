@@ -1,5 +1,13 @@
 {
   "display_name": "Go 1.26.1, convey 1.8.1",
+  "language": [
+    "Go",
+    "1.26.1"
+  ],
+  "test_framework": [
+    "convey",
+    "1.8.1"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/go_convey:3ceabba",
   "visible_filenames": [
     "hiker_test.go",
