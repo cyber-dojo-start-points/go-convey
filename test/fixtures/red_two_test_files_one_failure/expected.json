@@ -1,0 +1,14 @@
+{
+  "match_counts": {
+    "^x$": 1,
+    "^  \\* /sandbox/answer_size_test\\.go[[:space:]]*$": 1,
+    "^  Expected '42' to be greater than or equal to '100' \\(but it wasn't\\)!$": 1,
+    "^4 total assertions$": 1,
+    "^--- FAIL: ": 1,
+    "^--- FAIL: Test_answer_is_three_digits ": 1,
+    "^FAIL$": 1,
+    "^exit status 1$": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-convey[[:space:]]": 1,
+    "^PASS$": 0
+  }
+}

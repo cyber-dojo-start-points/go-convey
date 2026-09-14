@@ -1,0 +1,17 @@
+{
+  "match_counts": {
+    "^x$": 1,
+    "^Failures:$": 1,
+    "^  \\* /sandbox/hiker_test\\.go[[:space:]]*$": 1,
+    "^  Line [0-9]+:$": 1,
+    "^  Expected: 42$": 1,
+    "^  Actual:   54$": 1,
+    "^  \\(Should equal\\)!$": 1,
+    "^1 total assertion$": 1,
+    "^--- FAIL: Test_life_the_universe_and_everything ": 1,
+    "^FAIL$": 1,
+    "^exit status 1$": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-convey[[:space:]]": 1,
+    "^PASS$": 0
+  }
+}

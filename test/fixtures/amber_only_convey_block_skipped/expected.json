@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^S$": 1,
+    "^0 total assertions \\(one or more sections skipped\\)$": 1,
+    "^\\.$": 0,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-convey[[:space:]]": 1,
+    "^--- FAIL: ": 0
+  },
+  "truncated": false
+}

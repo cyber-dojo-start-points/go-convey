@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^testing: warning: no tests to run$": 1,
+    "total assertion": 0,
+    "^\\.$": 0,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-convey[[:space:]]": 1,
+    "^--- FAIL: ": 0
+  },
+  "truncated": false
+}

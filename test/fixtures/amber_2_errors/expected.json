@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^FAIL[[:space:]]+cyber-dojo-go-convey \\[build failed\\]$": 1,
+    "^\\./hiker\\.go:[0-9]+:[0-9]+: undefined: multiplier$": 1,
+    "^\\./hiker\\.go:[0-9]+:[0-9]+: undefined: digitSum$": 1,
+    "syntax error:": 0,
+    "^PASS$": 0,
+    "^--- FAIL: ": 0,
+    "total assertion": 0
+  }
+}

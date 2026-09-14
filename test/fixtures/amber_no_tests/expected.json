@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^\\?[[:space:]]+cyber-dojo-go-convey[[:space:]]+\\[no test files\\]$": 1,
+    "^PASS$": 0,
+    "^ok[[:space:]]": 0,
+    "^FAIL": 0,
+    "total assertion": 0
+  },
+  "truncated": false
+}

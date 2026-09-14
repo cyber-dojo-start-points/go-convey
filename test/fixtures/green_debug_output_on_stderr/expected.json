@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 9,
+  "matches": [ "^answer was called$" ],
+  "match_counts": {
+    "^\\.$": 1,
+    "^1 total assertion$": 1,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-convey[[:space:]]": 1,
+    "^--- FAIL: ": 0
+  }
+}
