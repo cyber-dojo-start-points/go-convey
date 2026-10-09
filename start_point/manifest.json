@@ -8,7 +8,7 @@
     "convey",
     "1.8.1"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/go_convey:4741269",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_convey:8dd5220",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
