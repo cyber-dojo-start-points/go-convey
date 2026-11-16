@@ -1,6 +1,6 @@
 module cyber-dojo-go-convey
 
-go 1.27.3
+go 1.27.4
 
 require github.com/smartystreets/goconvey v1.8.1
 
